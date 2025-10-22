@@ -1,4 +1,5 @@
 # 🐾 PET ADOPTION WEBSITE
+<img width="1920" height="1080" alt="cats" src="https://github.com/user-attachments/assets/d2d63be3-cfda-439f-9e43-153cf0596357" />
 
 Welcome to the **Pet Adoption Web App**, a simple, interactive, and responsive website that allows users to explore different pets (dogs, cats, and rabbits) available for adoption.  
 This project uses **HTML, CSS, and JavaScript** to dynamically load data from a local `pets.json` file and display pet profiles in a beautiful card layout.  
